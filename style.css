@@ -64,3 +64,8 @@ a:hover
   text-decoration: underline;
   color: #FF0000;
 }
+body { background: pink; font-family: "Comic Sans MS"; }
+
+<a href="http://www.google.com"> Google </a>
+
+
